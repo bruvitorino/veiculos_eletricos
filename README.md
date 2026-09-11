@@ -28,3 +28,5 @@ Silver
 Gold
     ↓
 Dashboard
+
+## Ambiente de desenvolvimento: Databricks Free Edition.
